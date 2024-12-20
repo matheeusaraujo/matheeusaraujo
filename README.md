@@ -7,7 +7,7 @@ Tenho paixão por desenvolvimento de software e tecnologia e estou sempre em bus
 
 ## O que você vai encontrar aqui  
 - Projetos acadêmicos  
-- Aplicações web e mobile  
+- Aplicações web
 - Estudos e experimentos com diferentes tecnologias
 
 ## Tecnologias e ferramentas que utilizo  
