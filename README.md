@@ -17,9 +17,10 @@ Tenho paixão por desenvolvimento de software e tecnologia e estou sempre em bus
 ## Entre em contato  
 Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo!  
 
-<a href="https://www.linkedin.com/in/matheeusaraujo/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/matheeusaraujo/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <a href="https://www.instagram.com/_matheeusaraujo/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> <a href="matheus12araujo@hotmail.com" /> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 
-<a href="https://www.instagram.com/_matheeusaraujo/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+
 
 
 
