@@ -1,7 +1,7 @@
 # Bem-vindo ao meu GitHub! 👋  
 
 ## Sobre mim  :raising_hand:
-Olá! Meu nome é Matheus, sou formado em **Técnico em Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Além disso, estou me aprofundando na área de tecnologia com um curso de **Programação Full Stack**.  
+Olá! Meu nome é Matheus, tenho um curso **Técnico em Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Além disso, estou me aprofundando na área de tecnologia com um curso de **Programação Full Stack**.  
 
 Tenho paixão por desenvolvimento de software e tecnologia e estou sempre em busca de novos desafios e aprendizados.  
 
