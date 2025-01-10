@@ -21,8 +21,9 @@ Tenho paixão por desenvolvimento de software e tecnologia e estou sempre em bus
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matheeusaraujo&text_color=9f9f9f&bg_color=151515&title_color=fff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusaraujo&text_color=9f9f9f&bg_color=151515&title_color=fff" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusaraujo&layout=compact&text_color=9f9f9f&bg_color=151515&title_color=fff" />
 </a>
+
 
 
 ## Entre em contato  :arrow_heading_down:
