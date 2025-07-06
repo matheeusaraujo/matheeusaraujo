@@ -1,39 +1,51 @@
-# Bem-vindo ao meu GitHub! 👋  
+# 👋 Olá! Eu sou o Matheus Araújo
 
-## Sobre mim  :raising_hand:
-Olá! Meu nome é Matheus, tenho um curso **Técnico em Informática** e atualmente estou cursando **Análise e Desenvolvimento de Sistemas**. Além disso, estou me aprofundando na área de tecnologia com um curso de **Programação Full Stack**.  
+Sou **Desenvolvedor Full Stack** em formação, com experiência prática criando aplicações modernas e completas — do frontend ao backend.
 
-Tenho paixão por desenvolvimento de software e tecnologia e estou sempre em busca de novos desafios e aprendizados.  
+Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e crio projetos próprios para aprofundar meus conhecimentos em tecnologias como:
 
-## O que você vai encontrar aqui :mag:
-- Projetos acadêmicos  
-- Aplicações web
-- Estudos e experimentos com diferentes tecnologias
+<div align="center">
 
-## Tecnologias e ferramentas que utilizo :computer: 
-<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" /> <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white"/>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
+![Tanstack Query](https://img.shields.io/badge/-TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=fff)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=fff)
+
+</div>
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📌 [Cadastro de Usuários](https://github.com/matheeusaraujo/cadastro-usuarios)
+CRUD completo com integração de frontend e backend.
 <br>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" />
-
-## Minhas estatísticas :chart_with_upwards_trend:
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=matheeusaraujo&text_color=9f9f9f&bg_color=151515&title_color=fff" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusaraujo&layout=compact&text_color=9f9f9f&bg_color=151515&title_color=fff" />
-</a>
+**Stack:** React, TypeScript, Node.js, MongoDB, Tanstack Query
 
 
+---
 
+## 📈 GitHub Stats
 
-## Entre em contato  :arrow_heading_down:
-Sinta-se à vontade para explorar meus repositórios e entrar em contato comigo!  
+<div align="center">
 
-<a href="https://www.linkedin.com/in/matheeusaraujo/"/><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a href="https://www.instagram.com/_matheeusaraujo/"/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a href="mailto:matheus12araujo@hotmail.com"/><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matheeusaraujo&show_icons=true&theme=radical&hide=issues&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheeusaraujo&layout=compact&theme=radical)
 
+</div>
 
+---
 
+## 📬 Entre em contato
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/matheeusaraujo)
+- ✉️ matheus12araujo@hotmail.com
 
+---
 
+🧠 Sempre buscando melhorar. Sempre aprendendo. Sempre codando. 🚀
