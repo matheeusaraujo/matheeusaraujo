@@ -85,7 +85,7 @@ Acredito em código limpo, arquitetura bem definida e entrega de valor real.
       </td>
       <td align="center">
         <h2 style="color:#60a5fa; margin-bottom: 8px;">📚 StudyHub- Plataforma de Estudos </h2>
-        <a href="https://github.com/matheeusaraujo/cadastro-usuarios" target="_blank">
+        <a href="https://github.com/joaobrxyz/studyhub" target="_blank">
           <img src="https://img.shields.io/badge/VER%20PROJETO-1e3a8a?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <p style="color:#cbd5e1; font-size:10px; margin-top: 15px;">
